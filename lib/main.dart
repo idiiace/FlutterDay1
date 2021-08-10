@@ -79,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Container(
             padding: EdgeInsets.all(30.0),
             color: Colors.pinkAccent,
-            child: Text("one"),
+            child: Text("1"),
           ),
         ),
         Expanded(
